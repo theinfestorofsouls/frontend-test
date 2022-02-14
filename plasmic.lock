@@ -1,0 +1,74 @@
+{
+  "projects": [
+    {
+      "projectId": "2SVzSoTjDYo5RZ5ias5iM1",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "js",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "iqsTzgq0YXFgC",
+          "checksum": "05faed896391a3b3b5d24b2b72c19907"
+        },
+        {
+          "assetId": "2SVzSoTjDYo5RZ5ias5iM1",
+          "type": "projectCss",
+          "checksum": "66ca60f4bfb87d6cc03b083d6fa3f658"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "C-fgOk5aHPxU",
+          "checksum": "2e9e59307fa67639de3b08ae9e4cc986"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "C-fgOk5aHPxU",
+          "checksum": "2e9e59307fa67639de3b08ae9e4cc986"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "HBc8pQz6nAL",
+          "checksum": "d87307db9ce665765c114d82a889cda4"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "HBc8pQz6nAL",
+          "checksum": "d87307db9ce665765c114d82a889cda4"
+        },
+        {
+          "type": "icon",
+          "assetId": "4JuzVXs8k2UoH",
+          "checksum": "1375be9cd693905fe1cd85367ca728ba"
+        },
+        {
+          "type": "icon",
+          "assetId": "3Mq3t5Vx85WPc",
+          "checksum": "4b01edb93c96ebe9bd359e1cd9c1da9e"
+        },
+        {
+          "type": "icon",
+          "assetId": "N2OXTT08ze5",
+          "checksum": "d61acb67fc03720b3a3aae45aee864e8"
+        },
+        {
+          "type": "icon",
+          "assetId": "HejyhsW9qWE",
+          "checksum": "04239d421966eaca0415eef360b2e27f"
+        },
+        {
+          "type": "image",
+          "assetId": "kfqrolZWmmCej",
+          "checksum": "68c41678007cd20cd162a3c1334dabab"
+        },
+        {
+          "type": "image",
+          "assetId": "8lD1-4Kqd",
+          "checksum": "e678d09a919f34239682619a6bfd4f8f"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.170"
+}
